@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Harshita Sahal
 
-<!--
-**01sahalharshita/01sahalharshita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Zoology (Environmental Science) | CRISPR-Cas9 Trained  
+🧠 AI/ML in Bioinformatics | Data Science for Life Sciences  
+🔬 Research Interests: Cancer Genomics, Species Conservation, Climate Data  
+💻 Tools & Skills: Python | R | SQL | Jupyter | Git | Excel | Machine Learning  
 
-Here are some ideas to get you started:
+## 🌱 Current Projects
+- 🧬 **Cancer Type Prediction Using Gene Expression** (Machine Learning)
+- 🐦 **Migration Patterns of Birds & Climate Trends** (Data Science in R)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Certifications
+- 4-in-1 SQL Mastery (MySQL, PostgreSQL, Oracle, MS SQL)
+- AI/ML in Bioinformatics (Udemy, Biotecnika)
+- CRISPR-Cas9 Training – EduFabrica x AIIMS Delhi
+
+## 🌐 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/harshitasahal)
+- 📬 Email: harshitasahal@email.com
