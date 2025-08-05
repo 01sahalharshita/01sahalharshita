@@ -16,4 +16,4 @@
 
 ## 🌐 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harshitasahal)
-- 📬 Email: harshitasahal@email.com
+- 📬 Email: harshitasahal.work@email.com
