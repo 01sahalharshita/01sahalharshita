@@ -8,7 +8,7 @@
 ## 🌱 Current Projects
 - 🧬 **Cancer Type Prediction Using Gene Expression** (Machine Learning)
 - 🐦 **Migration Patterns of Birds & Climate Trends** (Data Science in R)
-
+- 🚀🧬 **crispr-cas9-analysis** (pipeline in R and python)
 ## 🎓 Certifications
 - 4-in-1 SQL Mastery (MySQL, PostgreSQL, Oracle, MS SQL)
 - AI/ML in Bioinformatics (Udemy, Biotecnika)
